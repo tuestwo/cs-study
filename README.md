@@ -6,7 +6,7 @@
 
 - [이름] xx월 xx주차 로 커밋
 
-    [**🦕권수린**](https://glitter-broom-1a7.notion.site/CS-Study-04a26bff7cc3438d92c034da0e26d016)
+    [**:penguin: 권수린**](https://glitter-broom-1a7.notion.site/CS-Study-04a26bff7cc3438d92c034da0e26d016)
 
     [**:ocean: 신재은**](https://jae2un.notion.site/2023-CS-1cfed419950242f28de8f063653b2cec)
 
